@@ -1,0 +1,5 @@
+create a file called as greeting.js
+create a component called as Greet - which returns jsx for hello there
+expoet the component
+import the component inside App.js
+embed the Greet component inside the App component

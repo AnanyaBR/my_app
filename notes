@@ -1,0 +1,10 @@
+1. npm install redux
+2 create folder
+    /store
+    /actions
+    /reducers
+    /selectors
+3. inside / store create a file configureStore.js
+4. inside  / reducers create file countReducer.js
+5. in index.js create the store
+6. npm install react-redux
